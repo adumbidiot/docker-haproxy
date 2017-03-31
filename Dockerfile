@@ -1,3 +1,3 @@
 FROM hypriot/rpi-haproxy:latest
 
-add ./haproxy.cfg ./haproxy.cfg
+ADD ./haproxy.cfg ./haproxy.cfg
